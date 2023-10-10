@@ -28,12 +28,11 @@
     width:100px ;
     justify-content: center;
 }
-.inner-box2{
+.inner-box2, textarea{
     height:100vh ;
     width:500px ;
     background-color: rgba(0, 0, 0, 0.123);
     outline: none;
     border: none;
     font-size: 35px;
-    text-align: initial;
 }
