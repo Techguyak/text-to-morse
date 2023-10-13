@@ -1,3 +1,7 @@
+document.querySelector('.con-btn').addEventListener('click',()=>{
+    a();
+})
+
 let match ={
     'A' : '.-',
     'B' : '-...',
