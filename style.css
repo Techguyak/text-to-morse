@@ -36,7 +36,7 @@
 }
 @media(max-width:500px) {
     .inner-box1{
-        height:100vh ;
+        height:80vh ;
         width:200px ;
 
     }
@@ -45,7 +45,7 @@
         width:100px ;
     }
     .inner-box2, textarea{
-        height:100vh ;
+        height:80vh ;
         width:200px ;
         font-size: ;
 }
