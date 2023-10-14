@@ -37,16 +37,16 @@
 @media(max-width:500px) {
     .inner-box1{
         height:80vh ;
-        width:200px ;
+        width:218px ;
 
     }
     .con-btn{
-        height:80px;
-        width:100px ;
+        height:70px;
+        width:70px ;
     }
     .inner-box2, textarea{
         height:80vh ;
-        width:200px ;
-        font-size: ;
+        width:218px ;
+        font-size:28px;
 }
 }
