@@ -18,7 +18,6 @@
     height:100vh ;
     width:500px ;
     background-color: rgba(0, 0, 0, 0.123);
-    font-size:35px ;
     outline: none;
     border: none;
 }
@@ -48,5 +47,6 @@
     .inner-box2, textarea{
         height:100vh ;
         width:200px ;
+        font-size: ;
 }
 }
